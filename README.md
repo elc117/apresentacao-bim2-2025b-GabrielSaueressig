@@ -24,7 +24,7 @@ Nessa classe, utilizei @BeforeEach e @Test, inclusive tive alguns problemas para
 ---
 ### Diagrama de Classes
 
-Foi feito também um diagrama de classes estilo UML, para ter uma visão macro do sistema. Evidenciando os atributos e mêtodos das classes
+Foi feito também um diagrama de classes estilo UML, para ter uma visão macro do sistema, e saber as relações entre as diferentes classes. Evidenciando os atributos e mêtodos das classes
 
 ![Diagrama da Classe](./midias/diagramaParadigma.png)
 
