@@ -57,7 +57,7 @@ if (novoFilme.getDuracaoMinutos() == 125) {
 Após essa etapa, inspirado pela framework de testes do Haskell, foi identificado a possibilidade de automatizar o processo de verificação dos métodos, o que motivou a pesquisa sobre ferramentas de teste para Java, levando à utilização do JUnit.
 
 Gif: Execução da Classe TestFilme
-![Execução TestFilme](midias/testfilme.gif)
+![Execução TestFilme](midias/2025-10-08-13-34-53-_online-video-cutter.com_.gif)
 
 3. Classe TestFilmeJunit
 
