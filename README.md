@@ -17,7 +17,7 @@ Após terminar este teste, me perguntei se existiria uma maneira mais fácil de 
 
 3. Classe TestFilmeJunit
 
-Nessa classe, utilizei @BeforeEach e @Test (este @ é como se eu disesse para que serve essas funções) e utilizei assertEquals() e assertTrue() para estruturar os testes e validar automaticamente os resultados.
+Nessa classe, utilizei @BeforeEach e @Test, inclusive tive alguns problemas para entender o fincionamento do @, que na minha concepção é como se eu disesse para que serve essas funções. Além disso utilizei assertEquals() e assertTrue() para estruturar os testes e validar automaticamente os resultados.
 
 ![Gif Classe TestFilmeJunit](./midias/2025-10-08-13-35-21-_online-video-cutter.com_.gif)
 
