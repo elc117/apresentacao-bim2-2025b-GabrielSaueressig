@@ -4,7 +4,7 @@ Como atividade de apresentação do 2º bimestre, foram desenvolvidos exercício
 
 ---
 
-1. Classe Filme
+## Classe Filme
 
 A classe Filme foi implementada para representar um filme com os atributos nome, duração, nota, lista de atores e status de lançamento.
 
@@ -33,7 +33,7 @@ public void setAtor(String nome) {
 
 Essas implementações reforçaram o entendimento de que coleções e strings em Java são objetos com métodos próprios, o que exige atenção ao manipular e comparar seus valores.
 
-2. Classe TestFilme 
+## Classe TestFilme 
 
 A classe TestFilme foi utilizada para realizar testes manuais dos métodos da classe Filme.
 Os valores foram atribuídos a um novo objeto e, em seguida, verificados por meio dos métodos get e set.
@@ -56,10 +56,9 @@ if (novoFilme.getDuracaoMinutos() == 125) {
 
 Após essa etapa, inspirado pela framework de testes do Haskell, foi identificado a possibilidade de automatizar o processo de verificação dos métodos, o que motivou a pesquisa sobre ferramentas de teste para Java, levando à utilização do JUnit.
 
-Gif: Execução da Classe TestFilme
 ![Execução TestFilme](midias/2025-10-08-13-34-53-_online-video-cutter.com_.gif)
 
-3. Classe TestFilmeJunit
+## Classe TestFilmeJunit
 
 Na classe TestFilmeJunit, foi aplicado o framework JUnit para a execução de testes automatizados.
 Foram utilizadas as anotações @BeforeEach e @Test, além dos métodos assertEquals() e assertTrue(), responsáveis por comparar os resultados esperados com os resultados obtidos.
@@ -82,18 +81,18 @@ Gif: Execução da Classe TestFilmeJunit
 
 Algo que tive um pouco de dificuldade na compreensão foi o uso do @, interpreto como se fosse o nome da função para a biblioteca JUnit, como se ela buscasse esse nome para aplicar seus métodos.
 
-![Execução TestFilmeJUnit](2025-10-08-13-35-21-_online-video-cutter.com_.gif)
+![Execução TestFilmeJUnit](midias/2025-10-08-13-35-21-_online-video-cutter.com_.gif)
 
 ---
 ## Diagrama de Classes
 
 Foi elaborado um diagrama de classes no estilo UML, com o objetivo de apresentar uma visão geral do sistema, destacando os atributos e métodos das classes e suas relações.
 
-![Diagrama da Classe](imagens/diagramaParadigma.png)
+![Diagrama da Classe](midias/diagramaParadigma.png)
 
 ---
 
-### Referências Bibliográficas
+## Referências Bibliográficas
 
 - Visual Paradigm Online :  https://online.visual-paradigm.com/
 
