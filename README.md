@@ -63,7 +63,7 @@ Após essa etapa, inspirado pela framework de testes do Haskell, foi identificad
 Na classe TestFilmeJunit, foi aplicado o framework JUnit para a execução de testes automatizados.
 Foram utilizadas as anotações @BeforeEach e @Test, além dos métodos assertEquals() e assertTrue(), responsáveis por comparar os resultados esperados com os resultados obtidos.
 
-Exemplo:
+
 ```
 @Test
 public void testarNome() {
@@ -75,8 +75,6 @@ public void testarFilmeLancado() {
     assertTrue(novoFilme.getFilmeLancado());
 }
 
-Gif: Execução da Classe TestFilmeJunit
-![Execução TestFilmeJunit](imagens/testfilmejunit.gif)
 ```
 
 Algo que tive um pouco de dificuldade na compreensão foi o uso do @, interpreto como se fosse o nome da função para a biblioteca JUnit, como se ela buscasse esse nome para aplicar seus métodos.
