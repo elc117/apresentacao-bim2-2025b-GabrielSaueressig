@@ -82,12 +82,14 @@ Gif: Execução da Classe TestFilmeJunit
 
 Algo que tive um pouco de dificuldade na compreensão foi o uso do @, interpreto como se fosse o nome da função para a biblioteca JUnit, como se ela buscasse esse nome para aplicar seus métodos.
 
+![Execução TestFilmeJUnit](2025-10-08-13-35-21-_online-video-cutter.com_.gif)
+
 ---
 ## Diagrama de Classes
 
 Foi elaborado um diagrama de classes no estilo UML, com o objetivo de apresentar uma visão geral do sistema, destacando os atributos e métodos das classes e suas relações.
 
-![Diagrama da Classe](imagens/diagrama_filme.png)
+![Diagrama da Classe](imagens/diagramaParadigma.png)
 
 ---
 
